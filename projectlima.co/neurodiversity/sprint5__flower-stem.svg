@@ -1,0 +1,9 @@
+<svg class="sprint5__flower-stem" width="67" height="381" viewBox="0 0 67 381" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 381C54.7688 296.431 56.044 91.763 49.8356 0H62.4203C79.7369 186.316 43.7949 331.632 23.6593 381H0Z" fill="url(#paint0_linear_141_800)"/>
+<defs>
+<linearGradient id="paint0_linear_141_800" x1="33.5" y1="0" x2="33.5" y2="381" gradientUnits="userSpaceOnUse">
+<stop stop-color="#09641D"/>
+<stop offset="1" stop-color="#A7DF85"/>
+</linearGradient>
+</defs>
+</svg>
